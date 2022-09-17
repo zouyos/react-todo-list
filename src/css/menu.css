@@ -1,0 +1,25 @@
+.menu {
+  font-size: 1.2em;
+  background-color: #20232a;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.activeLink, a:hover {
+  color: #07c5fa;
+}

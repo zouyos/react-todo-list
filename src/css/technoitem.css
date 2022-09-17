@@ -1,0 +1,31 @@
+.card {
+  color: white;
+  background-color: #32363e;
+  border: 5px solid #282c34;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 24px 10px;
+}
+
+.card h2 {
+  color: #61dafb
+}
+
+.card h3 {
+  font-size: 1.4em;
+}
+
+.card h4 {
+  font-size: 1.1em;
+  text-decoration: underline;
+}
+
+.btn-delete {
+  background-color: #FF7F50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
